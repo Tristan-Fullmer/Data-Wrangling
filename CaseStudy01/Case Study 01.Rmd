@@ -1,0 +1,31 @@
+---
+title: "Case Study 01"
+author: "Tristan Fullmer"
+date: "4/24/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Spanish Flu
+<img src="https://ourworldindata.org/uploads/2020/03/Influenza-pandemics-in-comparison-1-1536x755.png">
+
+This graph from [Our World in Data](https://ourworldindata.org/spanish-flu-largest-influenza-pandemic-in-history) is used to show the impacts of different pandemics. In some cases, there are different numbers based on different studies, and they are all grouped by having the same color to make it easier to see that they represent the same pandemic. There are gridlines in the background of the graph, but they are a very light color so that they don't interfere with the data. One issue with this graph is that the y-axis is sorted by date rather than length of the bar. This can makes it more difficult to compare pandemics with similiarly long bars.
+
+## Safe Engergy Sources
+<img src="https://ourworldindata.org/uploads/2020/02/Safest-source-of-energy.png">
+
+This graph from [Our World in Data](https://ourworldindata.org/safest-sources-of-energy) shows the death rates per unit of energy and the amount of CO2 emmissions they produce. The different colors given to the bubbles are especially useful for the bubbles that overlap a lot. The grid lines in the back are muted so they don't interfere that much with displaying the data. There is a lot of explanation text that makes it hard to read the data clearly.
+
+## Ocean Plastic
+<img src="https://ourworldindata.org/uploads/2019/09/Where-does-plastic-accumulate-800x396.png">
+
+These graphs from [Our World in Data](https://ourworldindata.org/where-does-plastic-accumulate) show how much platic waste is accumulating in each area. They picked good contrasiting colors to differentiate the macroplastic bar from the microplastic bar. Since there is no y-axis shown, it's also important that they put the count above each bar. Overall, this data would be better presented in a table as the different bars are very difficult to compare in this format.
+
+## Social Media
+<iframe src="https://ourworldindata.org/grapher/users-by-social-media-platform?time=2004..2018&country=Facebook+Instagram+MySpace+Pinterest+Reddit+Snapchat+TikTok+Tumblr+Twitter+WeChat+Whatsapp+YouTube" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+This graph from [Our World in Data](https://ourworldindata.org/rise-of-social-media) shows the amount of people using various social media platforms over time. Each platform is given a different colored line to show it's individual growth, and adding another dimention of data to the graph. This is a good choice of presentation as it is showing all the data along a common scale. There are a few lines that have a similar hue, but they aren't close to each other.
+
